@@ -11,6 +11,6 @@ Raw dataset:
 
 dataset name: ICES DOME zoobenthos dataset for HELCOM.
 
-Available from: dome.ices.dk
+Available from: https://dome.ices.dk
 
 Metadata:  https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?query_string={"groupOwner":{"10":true},"resourceType":{"dataset":true}}
