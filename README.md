@@ -8,6 +8,9 @@ data_preparation.R includes the code used to explore and clean up the raw data s
 data_exploration.R includes all of the code used for the analysis of the cleaned up dataset. The script is divided into topic sections corresponding to different parts of the analysis. Further information is provided in the comments within the code. This script can only be run after the finalized data set has been created using data_preparation.R. 
 
 Raw dataset: 
+
 dataset name: ICES DOME zoobenthos dataset for HELCOM.
+
 Available from: dome.ices.dk
+
 Metadata:  https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?query_string={"groupOwner":{"10":true},"resourceType":{"dataset":true}}
